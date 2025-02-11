@@ -12,3 +12,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 6. **Generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/IharBatura-7874/FZUKFDUX?sharingId=EFB4100EBC51C5C8)
 7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/IharBatura-7874/QDAH9J6E?sharingId=EFB4100EBC51C5C8)
 8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/IharBatura-7874/8R6B4G8W?sharingId=EFB4100EBC51C5C8)
+
+## Reflections
+
+Wow, TypeScript is so cool. It's very easy to start using it. You can control the types of variables. Interfaces are what I want to use all the time. Developing typed functions in TypeScript makes your work easier because you always know what it returns. Classes enable you to express common object-oriented patterns in a standard way, making features like inheritance more readable and interoperable. Generics are very useful when we don't know the exact type of the input data. Namespaces and modules are good technology but I more prefer use modules.
